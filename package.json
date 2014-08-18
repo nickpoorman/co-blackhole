@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "index.js",
-    "test": "mocha test/*.js"
+    "test": "mocha --harmony test/*.js"
   },
   "engines": {
     "node": "0.11.x"
